@@ -16,4 +16,4 @@ echo "\n"
 echo "${red}NOTE 1: ${yellow}if you have ${red}KO ${yellow}you can check (./test_file) to see the example that we use to check your program"
 echo "${red}NOTE 2: ${yellow}if you run the tester again without modifing your code and you get ${green}OK ${yellow}taht's because the \n\ttester generate a new numbres"
 echo "${red}R     : ${yellow}result of your progamme ${green}OK ${yellow}your programme work SUCSESSFUL ${red}KO ${yellow}your program does not work SUCSESS"
-echo "${red}N     : ${yellow}nembres of opereation by your programme"
+echo "${red}N     : ${yellow}nembres of opereation by your program 
