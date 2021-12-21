@@ -3,10 +3,10 @@ this tester count the number of operation that made by your programme and test i
 <li><strong>NOTE : </strong> this testr does not check if your checker is work or note</br>
 
 ## How do i run this tester ?
-<pre>git clone git@github.com:Yoo0lh/push_swap_tester.git </br>./push_swap_tester.sh [number of argumment]
+<pre>git clone git@github.com:Yoo0lh/push_swap_tester.git </br>./push_swap_tester.sh [number of argument]
 </pre>
 ### example :
-this example will run the tester with 100 numebre of argumment
+this example will run the tester with 100 number of argument
 <pre> ./push_swap_tester.sh 100 </pre>
 <img src="screen_shot.png">
 
