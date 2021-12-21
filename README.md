@@ -6,7 +6,7 @@ this tester count the number of operation that made by your programme and test i
 <pre>git clone git@github.com:Yoo0lh/push_swap_tester.git </br>./push_swap_tester.sh [number of argumment]
 </pre>
 ### example :
-this exaple will run the tester with 100 numebre of argumment
+this example will run the tester with 100 numebre of argumment
 <pre> ./push_swap_tester.sh 100 </pre>
 <img src="screen_shot.png">
 
