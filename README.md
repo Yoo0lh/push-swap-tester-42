@@ -13,5 +13,3 @@ this exaple will run the tester with 100 numebre of argumment
 # Contribution
 If you noticed something wrong with the code or if you'd like to see a new feature, you can submit an issue. If you'd like to contribute please submit a pull request. 
 
-## report bug : 
-hamza.chabana99@gmail.com
