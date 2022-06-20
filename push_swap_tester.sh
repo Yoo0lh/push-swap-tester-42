@@ -5,7 +5,7 @@ idont=`tput setaf 6`
 (make fclean -C ../ && make -C ../) > /dev/null
 for i in {1..10}; do  echo "$yellow================= ${idont}TEST $i ${yellow}=================================";
     ARG="$(python random.numbers.py $1 | tr '\n' ' ' > ./test_files/test_$i.txt; cat ./test_files/test_$i.txt)";
-if [ "$( ../push_swap $ARG | ./Tester $ARG)" = "OK" ] ; then 
+if [ "$( ../push_swap $ARG | ./checker_Mac $ARG)" = "OK" ] ; then 
     echo "${green}R -->[OK]\nN --> $(../push_swap $ARG | wc -l | awk '{printf $1}')"
 else
     echo "${red}R -->[KO]\nN ${red}--> $(../push_swap $ARG | wc -l | awk '{printf $1}')"
